@@ -1,3 +1,8 @@
+Forked to merge in 
+https://github.com/react-native-community/react-native-side-menu/pull/344
+and
+https://github.com/react-native-community/react-native-side-menu/pull/371
+
 ## Customizable side menu for react-native
 <p align="center">
   <img src ="http://oi61.tinypic.com/2n9l2dz.jpg" />
